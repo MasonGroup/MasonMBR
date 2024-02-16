@@ -7,3 +7,7 @@ like the one you provided, onto the screen of the affected device. This image ty
 ---
 ![image](https://github.com/MasonGroup/MasonMBR/assets/95870255/37b15556-24c8-4695-9f48-49098ea0e3a3)
 ---
+```sh
+"We hereby declare that we disclaim any liability for any improper use of the software. Thank you for your understanding."
+```
+--------------------------------------------------------------------------------------------------------------------------
