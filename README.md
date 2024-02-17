@@ -5,7 +5,7 @@ is a tool designed to replace the Master Boot Record (MBR) of a computer's hard 
 ---
 like the one you provided, onto the screen of the affected device. This image contains a message indicating that the system has been hacked by Freemasonry
 ---
-![image](https://github.com/MasonGroup/MasonMBR/assets/95870255/37b15556-24c8-4695-9f48-49098ea0e3a3)
+![image (2)](https://github.com/MasonGroup/MasonMBR/assets/95870255/aa1b559e-8073-4272-bdc4-c37b67a01b40)
 ---
 ```sh
 "We hereby declare that we disclaim any liability for any improper use of the software. Thank you for your understanding."
